@@ -2,7 +2,7 @@
 
 ## Intro and Setup
 
-This quick intro is going to skip over a lot. The file structure and connections between the files have already been done for you. You'll want to click on the green "clone" button, and copy that URL. We'll use this URL to clone a copy of this project for you.
+This quick intro is going to skip over a lot. The file structure and connections between the files have already been done for you. You'll want to click on the green "clone" button up and to the right, and copy that URL. We'll use this URL to clone a copy of this project for you.
 
 Then, in the console (whether you're on your own computer or in a Cloud9 integrated develoment environment) you'll type `git clone <the url>` with the URL filled in. It will likely look something like this:
 
@@ -12,7 +12,7 @@ git clone https://github.com/upperlinecode/intro-se-1-p5js-intro.git
 
 Once this is done, you should see a directory called `intro-se-1-p5js-intro` and you should open it up. We're going to be doing all our coding in the play.js file.
 
-Our js file isn't actually a webpage, though. So in order to see our work, we'll also want to open up the index.html file in a new tab. We won't code much of anything here, but you'll use THIS tab to run the preview and test your work. 
+Our js file isn't actually a webpage, though. So in order to see our work, we'll also want to open up the index.html file in a new tab. We won't code much of anything here, but you'll use THIS tab to run the preview and test your work.
 
 ## 1. Draw Something!
 
