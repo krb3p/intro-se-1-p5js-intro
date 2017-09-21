@@ -4,7 +4,7 @@
 
 This quick intro is going to skip over a lot. The file structure and connections between the files have already been done for you. You'll want to click on the green "clone" button up and to the right, and copy that URL. We'll use this URL to clone a copy of this project for you.
 
-Then, in the console (whether you're on your own computer or in a Cloud9 integrated develoment environment) you'll type `git clone <the url>` with the URL filled in. It will likely look something like this:
+Then, in your console, you'll type `git clone <the url>` with the URL pasted in (using `cmd + v` on a mac or `ctrl + v` on a pc). It will likely look something like this:
 
 ```bash
 git clone https://github.com/upperlinecode/intro-se-1-p5js-intro.git
